@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-alibaba-nacos-consumer/hello-spring-cloud-alibaba-nacos-consumer.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-alibaba-nacos-consumer/hello-spring-cloud-alibaba-nacos-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-alibaba-nacos-consumer-feign/hello-spring-cloud-alibaba-nacos-consumer-feign.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-alibaba-nacos-consumer-feign/hello-spring-cloud-alibaba-nacos-consumer-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-alibaba-nacos-provider/hello-spring-cloud-alibaba-nacos-provider.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-alibaba-nacos-provider/hello-spring-cloud-alibaba-nacos-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-spring-cloud-alibaba-nacos-provider1/hello-spring-cloud-alibaba-nacos-provider1.iml" filepath="$PROJECT_DIR$/hello-spring-cloud-alibaba-nacos-provider1/hello-spring-cloud-alibaba-nacos-provider1.iml" />
     </modules>
   </component>
 </project>
