@@ -6,10 +6,13 @@ spring:
               discovery:
                  server-addr:  127.0.0.1:8848
 server:
-   port: 9092
+   port: 9096
 
 management:
    endpoints:
       web:
          exposure:
             include: "*"
+feign:
+   sentinel:
+      enabled: true
