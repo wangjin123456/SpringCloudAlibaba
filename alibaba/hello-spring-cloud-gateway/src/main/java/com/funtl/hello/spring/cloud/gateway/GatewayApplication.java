@@ -1,14 +1,15 @@
-package com.funtl.hello.spring.cloud.alibaba.nacos.provider;
+package com.funtl.hello.spring.cloud.gateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
+import org.springframework.cloud.openfeign.EnableFeignClients;
 
-
-@SpringBootApplication
+@EnableFeignClients
 @EnableDiscoveryClient
-public class NacosProviderApplication {
+@SpringBootApplication
+public class GatewayApplication {
     public static void main(String[] args) {
-        SpringApplication.run(NacosProviderApplication.class,args);
+        SpringApplication.run(GatewayApplication.class,args);
     }
 }
