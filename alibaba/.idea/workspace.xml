@@ -2,40 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="653e0153-3119-44b3-a9b3-e4e9c524c902" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_1_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_ipc_reactor_netty_0_7_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_1_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_reactor_netty_2_0_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_webflux_2_0_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_gateway_core_2_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_gateway_2_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webflux_5_0_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_synchronoss_cloud_nio_multipart_parser_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_synchronoss_cloud_nio_stream_storage_1_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-gateway/hello-spring-cloud-gateway.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-gateway/src/main/java/com/funtl/hello/spring/cloud/gateway/GatewayApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-gateway/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-gateway/src/main/java/com/funtl/hello/spring/cloud/gateway/confg/AuthFilter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-alibaba-nacos-consumer-feign/hello-spring-cloud-alibaba-nacos-consumer-feign.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-alibaba-nacos-consumer-feign/hello-spring-cloud-alibaba-nacos-consumer-feign.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-alibaba-nacos-provider1/src/main/java/com/funtl/hello/spring/cloud/alibaba/nacos/provider/NacosProviderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-alibaba-nacos-provider1/src/main/java/com/funtl/hello/spring/cloud/alibaba/nacos/provider/NacosProviderApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,10 +165,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.GatewayApplication" />
+        <item itemvalue="Spring Boot.NacosProviderApplication (1)" />
         <item itemvalue="Spring Boot.NacosConsumerFeignApplication" />
         <item itemvalue="Spring Boot.NacosConsumerApplicatio" />
         <item itemvalue="HTTP Request.NacosConsumerFeignApplication#1" />
-        <item itemvalue="Spring Boot.NacosProviderApplication (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +176,7 @@
     <option name="viewStates">
       <list>
         <serviceView>
-          <option name="contentProportion" value="0.14321192" />
+          <option name="contentProportion" value="0.3572395" />
           <treeState>
             <expand>
               <path>
@@ -219,11 +187,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
                 <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
             <select />
@@ -253,7 +216,8 @@
       <workItem from="1582075521175" duration="410000" />
       <workItem from="1582075956006" duration="307000" />
       <workItem from="1582076284225" duration="3553000" />
-      <workItem from="1582080601173" duration="864000" />
+      <workItem from="1582080601173" duration="3124000" />
+      <workItem from="1582243215028" duration="2237000" />
     </task>
     <servers />
   </component>
@@ -277,10 +241,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="471" y="146" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1581089498231" />
-    <state x="678" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1581437239766">
+    <state x="678" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1582242644471">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="678" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1581437239766" />
+    <state x="678" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1582242644471" />
     <state x="0" y="206" width="1280" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581129780364">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -289,54 +253,54 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="420" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1581466501068" />
-    <state width="632" height="86" key="GridCell.Tab.0.bottom" timestamp="1582081205228">
+    <state width="776" height="241" key="GridCell.Tab.0.bottom" timestamp="1582304798026">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="632" height="86" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582081205228" />
-    <state width="632" height="86" key="GridCell.Tab.0.center" timestamp="1582081205228">
+    <state width="776" height="241" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582304798026" />
+    <state width="776" height="241" key="GridCell.Tab.0.center" timestamp="1582304798026">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="632" height="86" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582081205228" />
-    <state width="632" height="86" key="GridCell.Tab.0.left" timestamp="1582081205228">
+    <state width="776" height="241" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582304798026" />
+    <state width="776" height="241" key="GridCell.Tab.0.left" timestamp="1582304798026">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="632" height="86" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582081205228" />
-    <state width="632" height="86" key="GridCell.Tab.0.right" timestamp="1582081205228">
+    <state width="776" height="241" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582304798026" />
+    <state width="776" height="241" key="GridCell.Tab.0.right" timestamp="1582304798026">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="632" height="86" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582081205228" />
-    <state width="632" height="86" key="GridCell.Tab.1.bottom" timestamp="1582081205228">
+    <state width="776" height="241" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582304798026" />
+    <state width="776" height="241" key="GridCell.Tab.1.bottom" timestamp="1582304798026">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="632" height="86" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582081205228" />
-    <state width="632" height="86" key="GridCell.Tab.1.center" timestamp="1582081205228">
+    <state width="776" height="241" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582304798026" />
+    <state width="776" height="241" key="GridCell.Tab.1.center" timestamp="1582304798026">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="632" height="86" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1582081205228" />
-    <state width="632" height="86" key="GridCell.Tab.1.left" timestamp="1582081205228">
+    <state width="776" height="241" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1582304798026" />
+    <state width="776" height="241" key="GridCell.Tab.1.left" timestamp="1582304798026">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="632" height="86" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1582081205228" />
-    <state width="632" height="86" key="GridCell.Tab.1.right" timestamp="1582081205228">
+    <state width="776" height="241" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1582304798026" />
+    <state width="776" height="241" key="GridCell.Tab.1.right" timestamp="1582304798026">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="632" height="86" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1582081205228" />
-    <state width="632" height="86" key="GridCell.Tab.2.bottom" timestamp="1582081205228">
+    <state width="776" height="241" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1582304798026" />
+    <state width="474" height="310" key="GridCell.Tab.2.bottom" timestamp="1582244729799">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="632" height="86" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582081205228" />
-    <state width="632" height="86" key="GridCell.Tab.2.center" timestamp="1582081205228">
+    <state width="474" height="310" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582244729799" />
+    <state width="474" height="310" key="GridCell.Tab.2.center" timestamp="1582244729799">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="632" height="86" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1582081205228" />
-    <state width="632" height="86" key="GridCell.Tab.2.left" timestamp="1582081205228">
+    <state width="474" height="310" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1582244729799" />
+    <state width="474" height="310" key="GridCell.Tab.2.left" timestamp="1582244729799">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="632" height="86" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1582081205228" />
-    <state width="632" height="86" key="GridCell.Tab.2.right" timestamp="1582081205228">
+    <state width="474" height="310" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1582244729799" />
+    <state width="474" height="310" key="GridCell.Tab.2.right" timestamp="1582244729799">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="632" height="86" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1582081205228" />
+    <state width="474" height="310" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1582244729799" />
     <state x="340" y="0" key="Maven.ArtifactSearchDialog" timestamp="1581123348355">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
